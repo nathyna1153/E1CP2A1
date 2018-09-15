@@ -1,0 +1,59 @@
+body{
+	margin: 0px
+}
+body, html {
+	height:100%;
+	}
+.head {
+	background-color:#972727 ; 
+	padding: 50px;
+}
+.tittle {
+	color: #f2af40; 
+	margin: 0px; 
+	padding: 0px;
+	text-align: center;
+	font-family: "The_Emperors_font";
+}
+.primeraweb{
+	text-align: center;
+	font-size: 20px;
+	color:#F5FFFA;
+	margin: 0;
+}
+.cuzco{
+	margin: 0 auto;
+	text-align: center;
+	background-color: #158abe;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.cuzco2{
+	margin: 0 auto;
+	background-image: url(../images/cuzco2.jpg);
+	background-size: 100%;
+	height: 330px;
+	text-align: right;
+	color: white;
+	font-size: 20px;
+} 
+.cuzco_font{
+	font-family: "The_Emperors_font";
+	color: #f2af40;
+	font-size: 30px;
+}
+@font-face{
+	font-family: "The_Emperors_font";
+	src:url("../fonts/The_Emperors_font.ttf");
+}
+.footer{
+	font-family: "The_Emperors_font";
+	text-align: center;
+	font-size: 50px ;
+}
+.footer2{
+	font-family: "The_Emperors_font";
+	padding-left:20%;
+	text-align: left;
+	font-size: 40px;
+}
